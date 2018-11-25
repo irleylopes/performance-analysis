@@ -1,4 +1,4 @@
-package br.com.performanceAnalysis.performanceanalysis;
+package br.com.performance;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,12 +1,12 @@
-package br.com.performanceAnalysis.performanceanalysis;
+package br.com.performance;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PerformanceAnalysisApplication {
+public class PerformanceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PerformanceAnalysisApplication.class, args);
+		SpringApplication.run(PerformanceApplication.class, args);
 	}
 }
